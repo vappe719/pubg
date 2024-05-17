@@ -1,0 +1,13 @@
+.container{
+    border: 5px solid darkturquoise;
+    border-radius: 25px;
+    width: 500px;
+    height: 320px;
+    margin: auto;
+}
+.form{
+    text-align: center;
+}
+.header{
+    font-size: 20px;
+}
